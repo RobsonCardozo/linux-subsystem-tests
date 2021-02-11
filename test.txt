@@ -1,1 +1,2 @@
-Works fine for now.
+Github works - Ok for now.
+VSCode modified permission (don't use it on windows, it's cause a user conflitct).
