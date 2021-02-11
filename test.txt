@@ -1,2 +1,2 @@
-Github works - Ok for now.
-VSCode modified permission (don't use it on windows, it's cause a user conflitct).
+Github works - Ok for now. (But you have to create 2 SSH keys)
+VSCode cause permission's bug (cause you are using 2 users at same time, which causes a conflict).
