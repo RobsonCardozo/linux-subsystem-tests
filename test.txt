@@ -1,2 +1,6 @@
-Github works - Ok for now. (But you have to create another SSH key)
-VSCode cause permission's bug (cause you are using 2 users at same time, which causes a conflict).
+Day 1: Github works - Ok for now. (But you have to create another SSH key)
+       VSCode cause permission's bug (cause you are using 2 users at same time, which causes a conflict).
+
+Day 2: Github still works fine.
+       User permission's problem solved by activating VsCode by subsystem terminal. After that, nothing goes wrong.
+       Now I have the better of both worlds. :D
